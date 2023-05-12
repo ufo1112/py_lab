@@ -1,5 +1,3 @@
-#!/usr/bin/python
-
 s = 0
 n = int(input("n: "))
 
